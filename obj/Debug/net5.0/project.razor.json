@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\User\\OneDrive\\Рабочий стол\\Cards\\Cards.csproj",
+  "FilePath": "c:\\Users\\User\\Cards\\Cards.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,43 +15619,43 @@
   "RootNamespace": "Cards",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\User\\OneDrive\\Рабочий стол\\Cards\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\User\\OneDrive\\Рабочий стол\\Cards\\Pages\\Shared\\_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\User\\OneDrive\\Рабочий стол\\Cards\\Pages\\Index.cshtml",
+      "FilePath": "c:\\Users\\User\\Cards\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\User\\OneDrive\\Рабочий стол\\Cards\\Pages\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\User\\Cards\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\User\\Cards\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\User\\OneDrive\\Рабочий стол\\Cards\\Pages\\Pizza.cshtml",
-      "TargetPath": "Pages\\Pizza.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\User\\OneDrive\\Рабочий стол\\Cards\\Pages\\Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\User\\OneDrive\\Рабочий стол\\Cards\\Pages\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\User\\Cards\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\User\\OneDrive\\Рабочий стол\\Cards\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\User\\Cards\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\User\\Cards\\Pages\\Pizza.cshtml",
+      "TargetPath": "Pages\\Pizza.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\User\\Cards\\Pages\\Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\User\\Cards\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     }
   ],
